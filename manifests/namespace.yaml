@@ -1,0 +1,5 @@
+# Adapted from AWS Load Balancer Controller official 2048 example
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: game-2048
